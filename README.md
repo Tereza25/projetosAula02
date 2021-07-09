@@ -1,6 +1,7 @@
 # Aula 02 - Gerenciando os Projetos - MINAS PROGRAMAM
 
-------------------------------------------------------
+Olá, minas! Chegamos na aula 02. Estão prontas para aprender como analisar e gerenciar um projeto? :D
+
 ### Conteúdo:
 
 - A importância da documentação
@@ -11,6 +12,7 @@
 
 Fomentar a importância da gestão do tempo, tanto na vida pessoal quanto no gerenciamento de projetos. Apresentar novidades tecnológicas úteis no processo de gestão e controle de projetos pessoais e em equipe. Conhecer a ferramenta estratégica Fluxograma e 5W2H, para planejamento de processos e organização de projetos.
 
+### Metodologia
 -------------------------------------------------------------
 
 #### 1 - Acolhimento (Apresentação e Dinâmica) - 20 minutos
